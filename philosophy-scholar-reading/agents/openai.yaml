@@ -1,0 +1,4 @@
+interface:
+  display_name: "哲学文献研究与论证分析"
+  short_description: "精读哲学文献，重构评价论证，并分析关系、方法与研究价值"
+  default_prompt: "请用 $philosophy-scholar-reading 精读这篇哲学文献，梳理核心观点、全部论证及其关系，并评价论证方法与强弱。"
