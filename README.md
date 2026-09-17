@@ -67,3 +67,6 @@
 
 `philosophy-scholar-reading` is a Codex skill for close reading and argument analysis of philosophical texts. It reconstructs and evaluates arguments, maps support and attack relations, identifies philosophical methods, optionally provides bilingual analysis of English texts, and extracts research and writing lessons from classic works.
 
+## 致谢
+
+感谢我的导师wxflogic为我提供了gpt的使用指导，为我提供了一个相似用途的skill以做参照。他的主页在：https://github.com/wxflogic
